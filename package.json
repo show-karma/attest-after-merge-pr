@@ -1,0 +1,8 @@
+{
+  "name": "attestaion-after-merge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:show-karma/attestaion-after-merge.git",
+  "author": "Arthh <arthur.ulhoa28@gmail.com>",
+  "license": "MIT"
+}

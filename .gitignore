@@ -1,0 +1,84 @@
+# compiled output
+/dist
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+
+# Tests
+/coverage
+/.nyc_output
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+.env
+.env*
+.db
+*.pem
+*.swp
+*.swo
+
+# For Terraform
+# Local .terraform directories
+**/.terraform/*
+**/.terragrunt/*
+**/.terragrunt-cache*
+**/.terragrunt-cache/*
+**/.terraform.lock.hcl
+# .tfstate files
+*.tfstate
+*.tfstate.*
+crash.log
+
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+*.secrets
+.idea
+aws.secret
+karma_dump.sql
+
+
+stewards_data.json
+dump.rdb
+api-1.http
+
+upload/*
+aws-config.ts
+
+# Local trashfiles
+*credentials*
+athena-config.ts*
+athena-results*
+athena-test*
+athena-result*
+athena-gitcoin*
+holders.ts
+holders.json
+*.sol
