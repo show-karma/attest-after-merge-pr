@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Attestation
         id: attestation
-        uses: show-karma/github-attestation-action@feat/improve-attestations
+        uses: show-karma/github-attestation-action@master
         with:
           private-key: ${{ secrets.PRIVATE_KEY }}
           rpc-url: ${{ secrets.RPC_URL }}
