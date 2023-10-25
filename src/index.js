@@ -6,8 +6,6 @@ console.log("added 7");
 console.log("added 8");
 console.log("added 8");
 console.log("added 8");
-console.log("added 8");
-console.log("added 9");
 console.log("added 9");
 
 
